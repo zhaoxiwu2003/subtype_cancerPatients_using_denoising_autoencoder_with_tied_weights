@@ -1,4 +1,4 @@
-# cancer_subtyping
+# Cancer Subtyping
 
 This is the new upgrade for this paper: https://www.nature.com/articles/s41598-019-53048-x. The current codes can be run using CPU and GPU (using tensorflow 2.0).
 
