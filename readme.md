@@ -1,6 +1,6 @@
 # cancer_subtyping
 
-This is the new upgrade for this paper: https://www.nature.com/articles/s41598-019-53048-x. The current codes can be run using CPU and GPU.
+This is the new upgrade for this paper: https://www.nature.com/articles/s41598-019-53048-x. The current codes can be run using CPU and GPU (using tensorflow 2.0).
 
 The purpose of the project is to stratify the cancer patients into clinical associated subgroups to assist the personalized diagnosis and treatment. The algorithm used in this study is denoising autoencoders with tied weights. We used correlation coefficient as our second metric.
 
